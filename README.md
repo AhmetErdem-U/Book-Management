@@ -20,6 +20,20 @@ Dieses Projekt ermöglicht die effiziente Verwaltung von Büchern und Benutzerda
   - SQL-basierte Datenbankabfragen für eine effiziente Datennutzung.
 
 ---
+## Datenbankstruktur
+
+### Tabellen:
+- **Benutzer**:
+  - ID (INT, PRIMARY KEY)
+  - Benutzername (VARCHAR)
+  - Passwort (VARCHAR)
+
+- **Bücher**:
+  - ID (INT, PRIMARY KEY)
+  - Titel (VARCHAR)
+  - Autor (VARCHAR)
+  - Veröffentlicht (DATE)
+
 
 ## 🛠️ Technologien
 
