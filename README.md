@@ -32,19 +32,19 @@ Dieses Projekt ermöglicht die effiziente Verwaltung von Büchern und Benutzerda
 ## 📷 Screenshots
 
 1. **Anmeldeseite**  
-   ![Anmeldeseite](https://github.com/AhmetErdem-U/Buch-Management/blob/master/Anmeldeseite.png)
+   ![Anmeldeseite](https://github.com/AhmetErdem-U/Book-Management/blob/master/Anmeldeseite.png)
 
 2. **Dashboard**  
-   ![Dashboard](https://github.com/AhmetErdem-U/Buch-Management/blob/master/Dashboard.png)
+   ![Dashboard](https://github.com/AhmetErdem-U/Book-Management/blob/master/Dashboard.png)
 
 3. **Bücherliste**  
-   ![Bücherliste](https://github.com/AhmetErdem-U/Buch-Management/blob/master/Bücher.png)
+   ![Bücherliste](https://github.com/AhmetErdem-U/Book-Management/blob/master/Bücher.png)
 
 4. **Bücher Hinzufügen**  
-   ![Bücher Hinzufügen](https://github.com/AhmetErdem-U/Buch-Management/blob/master/Bücher_Hinzufügen.png)
+   ![Bücher Hinzufügen](https://github.com/AhmetErdem-U/Book-Management/blob/master/Bücher_Hinzufügen.png)
 
 5. **Bücher Löschen**  
-   ![Bücher Löschen](https://github.com/AhmetErdem-U/Buch-Management/blob/master/Bücher_Löschen.png)
+   ![Bücher Löschen](https://github.com/AhmetErdem-U/Book-Management/blob/master/Bücher_Löschen.png)
 
 
 
