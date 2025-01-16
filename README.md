@@ -31,8 +31,6 @@ Dieses Projekt ermöglicht die effiziente Verwaltung von Büchern und Benutzerda
 
 ## 📷 Screenshots
 
-## 📷 Screenshots
-
 1. **Anmeldeseite**  
    ![Anmeldeseite](https://github.com/AhmetErdem-U/Buch-Management/blob/master/Anmeldeseite.png)
 
@@ -47,6 +45,7 @@ Dieses Projekt ermöglicht die effiziente Verwaltung von Büchern und Benutzerda
 
 5. **Bücher Löschen**  
    ![Bücher Löschen](https://github.com/AhmetErdem-U/Buch-Management/blob/master/Bücher_Löschen.png)
+
 
 
 
