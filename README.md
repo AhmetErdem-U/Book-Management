@@ -32,7 +32,7 @@ Dieses Projekt ermöglicht die effiziente Verwaltung von Büchern und Benutzerda
 ## 📷 Screenshots
 
 1. **Anmeldeseite**  
-   ![Anmeldeseite](https://github.com/AhmetErdem-U/Book-Management/blob/master/Anmeldeseite.png)
+   ![Anmeldeseite](https://github.com/AhmetErdem-U/Book-Management/blob/master/LoginPage.png)
 
 2. **Dashboard**  
    ![Dashboard](https://github.com/AhmetErdem-U/Book-Management/blob/master/Dashboard.png)
